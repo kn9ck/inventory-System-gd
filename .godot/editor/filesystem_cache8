@@ -1,0 +1,25 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1707868488
+icon.svg::CompressedTexture2D::5008360455934329475::1707863722::1707863727::1::::<><>::
+main.gd::GDScript::-1::1707868041::0::1::::<>Node<>::
+main.tscn::PackedScene::3691414703201143468::1707868448::0::1::::<><>::uid://b1ajv3wok7rxm::::res://player.tscn<>res://main.gd<>uid://b7rovnybcauk3::::res://inventory/inventory.tscn<>uid://b011snuv0li28::::res://test_inv.tres<>res://inventory/inventory_interface.gd
+player.gd::GDScript::-1::1707867886::0::1::::<>CharacterBody3D<>::
+player.tscn::PackedScene::4211916078179082686::1707868042::0::1::::<><>::res://player.gd
+test_inv.tres::Resource/InventoryData::4196427097039316063::1707867412::0::1::::<><>::res://inventory/inventory_data.gd<>uid://dl1kucaumh6i5::::res://item/items/apple.tres<>res://inventory/slot_data.gd<>uid://55yyrtou81c5::::res://item/items/blue_book.tres
+::res://inventory/::1707868042
+inventory.gd::GDScript::-1::1707867776::0::1::::<>PanelContainer<>::
+inventory.tscn::PackedScene::4668446361426876288::1707868042::0::1::::<><>::res://inventory/inventory.gd
+inventory_data.gd::GDScript::-1::1707865144::0::1::::InventoryData<>Resource<>::
+inventory_interface.gd::GDScript::-1::1707867722::0::1::::<>Control<>::
+slot.gd::GDScript::-1::1707867096::0::1::::<>PanelContainer<>::
+slot.tscn::PackedScene::2157505612435683107::1707868042::0::1::::<><>::res://inventory/slot.gd
+slot_data.gd::GDScript::-1::1707867334::0::1::::SlotData<>Resource<>::
+::res://inventory-system-godot/::1707868218
+README.md::TextFile::-1::1707868218::0::1::::<><>::
+::res://item/::1707865334
+#1 - Transparent Icons.png::CompressedTexture2D::5020367094066494256::1587286808::1707865241::1::::<><>::
+item_atlas.tres::AtlasTexture::2758648244066269235::1707865322::0::1::::<><>::uid://cdr5yhyigfk1m::::res://item/#1 - Transparent Icons.png
+item_data.gd::GDScript::-1::1707865028::0::1::::ItemData<>Resource<>::
+::res://item/items/::1707865498
+apple.tres::Resource/ItemData::7985656144480732194::1707865498::0::1::::<><>::res://item/item_data.gd<>uid://cdr5yhyigfk1m::::res://item/#1 - Transparent Icons.png
+blue_book.tres::Resource/ItemData::2169097631555263634::1707865498::0::1::::<><>::res://item/item_data.gd<>uid://cdr5yhyigfk1m::::res://item/#1 - Transparent Icons.png
