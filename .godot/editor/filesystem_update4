@@ -3,3 +3,10 @@ res://item/items/apple.tres
 res://item/items/blue_book.tres
 res://test_inv.tres
 res://main.gd
+res://inventory/slot.gd
+res://inventory/slot.tscn
+res://inventory/inventory.gd
+res://inventory/inventory_data.gd
+res://player.tscn
+res://inventory/inventory.tscn
+res://inventory/inventory_interface.gd
